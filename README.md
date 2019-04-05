@@ -1,2 +1,2 @@
-# color-picker
+# fundamentals
 Deep Dive prework
