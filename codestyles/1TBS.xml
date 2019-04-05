@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code_scheme name="1TBS">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="false" />
+      <option name="LABEL_INDENT_SIZE" value="0" />
+      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </value>
+  </option>
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+  <JSCodeStyleSettings>
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+  </JSCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="TYPE_CASE" value="0" />
+  </SqlCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+  </TypeScriptCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="CoffeeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Gherkin">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HAML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Twig">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
+
