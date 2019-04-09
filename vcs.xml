@@ -30,6 +30,10 @@
           <option name="url" value="git@github.com:nschnepple19/about-nick.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:uss-hopper/snap-challenges-jsilva85.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\thebe\PhpstormProjects" />
