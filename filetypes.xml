@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping ext="jfif" type="Image" />
       <mapping pattern="snap_04_09" type="JavaScript" />
-      <mapping pattern="color-picker" type="PLAIN_TEXT" />
-      <mapping pattern="snap_04_09.js" type="PLAIN_TEXT" />
       <mapping pattern="Variables, Data Types, and Typing" type="PLAIN_TEXT" />
+      <mapping pattern="snap_04_09.js" type="PLAIN_TEXT" />
+      <mapping pattern="jessica-nigri.html" type="PLAIN_TEXT" />
+      <mapping pattern="color-picker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
