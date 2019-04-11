@@ -37,7 +37,7 @@
     <driver id="sybase.ase" name="Sybase (Native)">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql.8">
+    <driver id="mysql.8" name="MySQL8">
       <artifact name="MySQL Connector/J 8" use="true" version="8.0.15" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
@@ -46,16 +46,14 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
-    <driver id="mysql" name="MySQL">
-      <artifact name="MySQL Connector/J" use="true">
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
-        </library>
-      </artifact>
+    <driver id="mysql" name="MySQL5">
+      <artifact name="MySQL Connector/J" use="true" version="5.1.47" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mariadb">
       <artifact name="MariaDB Connector J" use="true" />
