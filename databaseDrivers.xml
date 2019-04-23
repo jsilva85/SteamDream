@@ -115,29 +115,5 @@
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
     </driver>
-    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="0ad2c8b0-5018-4c4c-b467-92b613e01dd6" name="User Driver [2]" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="7c1fddf1-884f-45d9-8eee-576240b6c123" name="User Driver [3]" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
   </component>
 </application>
