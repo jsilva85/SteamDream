@@ -78,6 +78,14 @@
           <option name="url" value="git@github.com:uss-hopper/assessment1-jsilva85.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GKephart/contact-form.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jsilva85/SteamDream.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\thebe\PhpstormProjects" />
