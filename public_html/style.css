@@ -30,7 +30,7 @@ p {
 
 .container {
 }
-
+/*navbar css*/
 .header,
 .middle {
     margin: 0;
@@ -82,7 +82,7 @@ p {
     margin: 10px auto;
     width: 800px;
     width: -moz-fit-content;
-    width: -webkit-fit-content;
+
     width: fit-content;
 }
 .menu > li {
@@ -249,7 +249,7 @@ body{
 h1,h2,h3,h4,h5,h6,div,input,p,a{
 
     font-family: "Times New Roman";
-
+/*font for website*/
 
     margin:0px;
 }
@@ -617,6 +617,5 @@ section.card-decks
 }
 
 
-}
 
 
