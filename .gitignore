@@ -1,2 +1,5 @@
 /.idea
 .DS_Store
+**/php/mail-config.php
+**/vendor
+
