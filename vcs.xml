@@ -94,6 +94,10 @@
           <option name="url" value="https://github.com/uss-hopper/jsx-templating.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:uss-hopper/assessment-2-jsilva85.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\thebe\PhpstormProjects" />
