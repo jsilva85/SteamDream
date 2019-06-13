@@ -15,4 +15,4 @@ You have done a lot of work on the site.
 
 You will have a nice site after fixing these things.
 
-At this point the site is a grade of tier 2.
+At this point the site is a grade of tier 2 + 1 for ssl certificate = Tier 3
