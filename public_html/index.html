@@ -215,78 +215,70 @@ While an automatic car wash can be the most convenient solution, we cannot affor
     </div>
 </div>
   </section>
-
-
-
 <section id="custom-contact-form">
-<form class="container">
-<div class="shadow p-3 mb-5 bg-white rounded">
 
+  <div class="container">
+    <div class="row justify-content-left">
+      <div class="col-md-4 mt-5 bg-light rounded">
+        <h1 class="text-center font-weight-bold text-primary">Contact Us</h1>
+        <hr class="bg-light">
+        <h5 class="text-center text-success"></h5>
+        <form action="" method="post" id="form-box" class="p-2">
+          <div class="form-group input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text"><i class="fas fa-user"></i></span>
+            </div>
+            <input type="text" name="name" class="form-control" placeholder="Enter your name" required>
+          </div>
+          <div class="form-group input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text"><i class="fas fa-envelope"></i></span>
+            </div>
+            <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
+          </div>
+          <div class="form-group input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text"><i class="fas fa-at"></i></span>
+            </div>
+            <input type="text" name="subject" class="form-control" placeholder="Enter subject" required>
+          </div>
+          <div class="form-group input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text"><i class="fas fa-comment-alt"></i></span>
+            </div>
+            <textarea name="msg" id="msg" class="form-control" placeholder="Write your message" cols="30" rows="4" required></textarea>
+          </div>
+          <div class="form-group">
+            <input type="submit" name="submit" id="submit" class="btn btn-primary btn-block" value="Send">
+          </div>
+        </form>
+      </div>
+    </div>
+<div class="container py-4">
+    <!-- reCAPTCHA -->
+    <div class="g-recaptcha" data-sitekey="6LdN6aMUAAAAAIXb6QxHUHuT6pKsZ03EPCHIauoi"></div>
+    </div>
+    </div>
+    <div class="row justify-content-right">
+<div class="container mb-6 pt-6">
 
-<div id="my-pwp-Jesse" action="../php/mailer.php" method="post">
-<form id="custom-contact-form">
-  	<div>
-  		<h1>Thank you for checking us out!</h1>
-  		<h4>Have a question or just want to get in touch? Let's chat.</h4>
-  	</div>
-  		   <div method="post" action="/">
-  			<div>
-  		      <label for="name">
-  		      	<span class="required">Name: *</span>
-  		      	<input type="text" id="Name" name="Name" value="" placeholder="Name" required="required" tabindex="1"/>
-  		      </label>
-  			</div>
-  			<div>
-  		      <label for="contactEmail">
-  		      	<span class="required">Email: *</span>
-  		      	<input type="email" id="Email" name="Email" value="" placeholder="Your Email" tabindex="2" required="required" />
-  		      </label>
-  			</div>
-  			<div>
-  		      <label for="contactSubject">
-  		      <span>Subject: </span>
-  			      <select id="Subject" name="Subject" tabindex="4">
-  			         <option value="hello">Product Price Question?</option>
-  			         <option value="quote">Set up an Appointment?</option>
-  			         <option value="general">- Any General Questions? </option>
-  			      </select>
-  		      </label>
-  			</div>
-
-  		      <label for="message">
-  		      <div class="container">
-  		      <div class="row">
-  		      <div class="col-md-4">
-                <span class="required">Message: *</span>
-  		      	<textarea id="message" name="message" placeholder="Please write your message here. (2000 characters max)" tabindex="5" required="required"></textarea>
-  		      </label>
-  		      </div>
-                              </form>
-                              </div>
-<!-- reCAPTCHA -->
-  <div class="g-recaptcha" data-sitekey="6LdN6aMUAAAAAIXb6QxHUHuT6pKsZ03EPCHIauoi"></div>
-
-    <button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-    <button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-</div>
-</form>
-</section>
-  		      <div class="row justify-content-center">
-  		      <div class="col-12 offset-md-4">
-  		                  <div class="right-nav">
+  		      <div class="col-12">
                                 <h2>About Me</h2>
-                                <div class="right-nav__article">
                                 <style>
                                 a {
                                 color: blue;
                                 }
                                 </style>
                                 <p>Veteran owned establishment<a href="https://www.facebook.com/steamdreamdetailing/">www.facebook.com.</a></p>
-                                <p>Owner of SteamDream. <b>Marc Joseph</b></p></div>
+                                <p>Owner of SteamDream. <b>Marc Joseph</b></p>
                                 <p>email: <a href="mailto: marcsautodetail@gmail.com">marcsautodetail@gmail.com</a></p>
                               </div>
                               </div>
                               </div>
+
+
+
+</section>
 
 </body>
 
